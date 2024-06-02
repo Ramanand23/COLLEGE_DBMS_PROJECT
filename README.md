@@ -1,7 +1,7 @@
 # College-DBMS-project
 # College Database Management System
 
-This project implements a simple College Database Management System using PostgreSQL. It includes SQL scripts for creating tables, inserting data, and performing various queries.
+This project implements a basic College Database Management System using PostgreSQL. It includes SQL scripts for table creation, data insertion, and various queries, as well as an ER diagram designed using normalization principles.
 
 ## Project Structure
 
