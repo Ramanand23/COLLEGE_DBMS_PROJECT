@@ -46,3 +46,8 @@ How to Run ?
 3. Execute DDL Script: Run the ddl.sql script to create the tables.
 4. Execute DML Script: Run the dml.sql script to insert data into the tables.
 5. Execute Queries: Run the queries.sql script to perform various queries.
+
+
+### Project Report
+
+[TE_17ET7006_CASE STUDY_RAMANAND_DHOLE .pdf](https://github.com/user-attachments/files/15524798/TE_17ET7006_CASE.STUDY_RAMANAND_DHOLE.pdf)
