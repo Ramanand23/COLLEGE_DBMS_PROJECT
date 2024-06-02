@@ -14,7 +14,7 @@ The project is divided into the following SQL script files:
 
 ## Entity Relationship Diagram
 
-
+![image](https://github.com/Ramanand23/College-DBMS-project/assets/68180773/f045a7fc-c38c-46b6-896e-b3a727bec435)
 
 ## Tables
 
