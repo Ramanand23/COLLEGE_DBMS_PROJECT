@@ -11,6 +11,11 @@ The project is divided into the following SQL script files:
 2. **dml.sql**: Contains Data Manipulation Language (DML) commands for inserting data into the tables.
 3. **queries.sql**: Contains various SQL queries for retrieving and manipulating data.
 
+
+## Entity Relationship Diagram
+
+
+
 ## Tables
 
 The database consists of the following tables:
